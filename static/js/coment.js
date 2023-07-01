@@ -42,13 +42,6 @@ const coment =[{
 		fecha: "11/06/2023 19:03"
 	},
 	{
-		img: "static/img/com/imgh7.jpg",
-		nombre: "Alexis",
-		com: "Yo estaba leyendo todos los comentarios y me decidi a probarla, yo les informo si funciona o no.",
-		star: 3,
-		fecha: "11/06/2023 18:32"
-	},
-	{
 		img: "static/img/com/imgm4.jpg",
 		nombre: "Mayra",
 		com: "Que raro esta esto y que lastima que no sea muy buena con todo esto pdorian explicarme como funciona?",
